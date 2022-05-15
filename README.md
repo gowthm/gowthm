@@ -1,6 +1,6 @@
 ## Hi there, I'm Gowtham
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React
 - 🥅 2022 Goals: Become a MERN Stack Developer
 - 💬 Ask me about **Node.js**
 - 📫 How to reach me **gowtham_dev@outlook.com**
