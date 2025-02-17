@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 <h3 align="center">A passionate JS fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Agriculture project**
+- 🔭 I’m currently working on **Software Engineer**
 
 - 🌱 I’m currently learning **React.js, Next.js, React Native**
 
