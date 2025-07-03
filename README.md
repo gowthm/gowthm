@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Software Engineer**
 
-- 🌱 I’m currently learning **React.js, Next.js, React Native**
+- 🌱 I’m currently learning **AI Agent, ML, Gen AI, LLM**
 
 - 💬 Ask me about **Node.js**
 
