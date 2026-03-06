@@ -25,7 +25,6 @@
 <p align="center">
 <a href="https://x.com/gowth_am_m"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://linkedin.com/in/gowth-am-m/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/12572122/gowtham"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 <a href="https://instagram.com/gowth_am_m"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/gowth_am_m"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://leetcode.com/gowth_am_m"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -75,13 +74,7 @@
 
 ---
 
-# 📈 Profile Views
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=gowthm&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 # ⭐ Fun Fact
 
