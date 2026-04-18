@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=GenAI+Engineer;Full+Stack+JavaScript+Developer;Node.js+Backend+Engineer;AI+Agent+Builder;Problem+Solver;Future+Tech+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=AI+Engineer;Full+Stack+JavaScript+Developer;Node.js+Backend+Engineer;AI+Agent+Builder;Problem+Solver;Future+Tech+Builder" />
 </p>
 
 
@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
-<h3 align="center">🚀 Passionate GenAI Engineer from India</h3>
+<h3 align="center">🚀 Passionate AI Engineer from India</h3>
 
 
 #  🧑‍💻 About Me
