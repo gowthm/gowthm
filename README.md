@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=AI+Engineer;Full+Stack+JavaScript+Developer;Node.js+Backend+Engineer;AI+Agent+Builder;Problem+Solver;Future+Tech+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&lines=AI+Engineer;Full+Stack+Developer;Node.js+Backend+Engineer;AI+Agent+Builder;Problem+Solver;Future+Tech+Builder" />
 </p>
 
 
