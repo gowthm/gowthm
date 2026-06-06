@@ -47,7 +47,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gowthm&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=gowthm&theme=tokyonight&hide_border=true&v=1" />
 </p>
 
 
@@ -56,7 +56,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthm&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gowthm&theme=tokyonight" />
 </p>
 
 ---
