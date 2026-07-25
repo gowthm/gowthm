@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gowtham</h1>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&height=60&size=30&lines=AI+Engineer;Full+Stack+Developer;Node.js+Backend+Engineer;AI+Agent+Builder;Problem+Solver;Future+Tech+Builder" />
-</p>
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
-</p>
-<h3 align="center">🚀 Passionate AI Engineer from India</h3>
+<h1 align="center">Hi there 👋, I'm Gowtham</h1>
+<p align="center">Software Engineer building Backend & AI Applications</p>
 
 #  🧑‍💻 About Me
 * 💼 Software Engineer focused on **Backend Architect & AI Applications**
@@ -14,28 +8,6 @@
 * 💬 Ask me about **Node.js, Backend Architecture, APIs**
 * 🧠 Love solving **algorithmic problems**
 * 📫 Reach me at **[gowtham_dev@outlook.com](mailto:gowtham_dev@outlook.com)**
-
-# ⚡ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,express,mongodb,postgres,docker,aws&perline=10"/>
-</p>
-
-# 🚀 Current Focus
-- ⚡ Backend Architecture
-- 🧠 Problem Solving (LeetCode / HackerRank)
-- 🤖 AI Agents & LLM Applications
-- ☁️ Cloud Native Development
-
-# 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gowthm&theme=tokyonight&hide_border=true&v=1" />
-</p>
-
-### 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthm&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
 
 # 🌐 Connect With Me
 <p align="center">
